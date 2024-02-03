@@ -16,7 +16,7 @@ As described in the Rosseta Code page the task requirements are:
 ## Road Map
 - [x] Create the Repository and README,
 - [ ] Write a program (Magnanimous) to generate the first 45 Magnanimous numbers by default; the first Task objective,
-- [ ] Impllement code to achieve objective 2 & 3,
+- [ ] Implement code to achieve objective 2 & 3,
 - [ ] [Upload the code](https://rosettacode.org/wiki/Rosetta_Code:Solve_a_Task) to Rosseta Code,
 - [ ] Extend Magnanimous with a Command Line Interface (CLI) that will:
      - [ ] provide a help system,
