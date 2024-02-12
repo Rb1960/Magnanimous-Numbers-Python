@@ -3,8 +3,7 @@
 
 # Magnanimous Numbers in Python 
   This repository will contain my solution for the [Rosseta Code](https://rosettacode.org/w/index.php?title=Rosetta_Code&oldid=322370) [Magnanimous Numbers Task](https://rosettacode.org/wiki/Magnanimous_numbers) in Python
-  I have used this task as a vechicle to experiment using  [Behaviour Driven Desgin (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) technique; using the [BDD Plugin](https://pypi.org/project/pytest-bdd/) for the [Python Pytest Framework](https://docs.pytest.org/en/7.2.x/), and practise in creating and managing my first Github project.
-  
+  There is alreasy a Python solution for this task; however it seems an interesting coding project and will provide an opportunity to practice creating a GitHub Project.  
 ## The Task
 As described in the Rosseta Code page the task requirements are:
 
@@ -16,8 +15,7 @@ As described in the Rosseta Code page the task requirements are:
 ## Road Map
 - [x] Create the Repository and README,
 - [ ] Write a program (Magnanimous) to generate the first 45 Magnanimous numbers by default; the first Task objective,
-- [ ] Implement code to achieve objective 2 & 3,
-- [ ] [Upload the code](https://rosettacode.org/wiki/Rosetta_Code:Solve_a_Task) to Rosseta Code,
+- [ ] Implement code to achieve requirement 2 & 3 from above,
 - [ ] Extend Magnanimous with a Command Line Interface (CLI) that will:
      - [ ] provide a help system,
      - [ ] check if a specific number is Magnanimous,
