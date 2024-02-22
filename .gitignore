@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/Magnanimous-Numbers-Python.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/pylintpylint.tmp/csi-219/source/magnanimous_numbers.py
+/.idea/pylintpylint.tmp/csi-220/source/magnanimous_numbers.py
